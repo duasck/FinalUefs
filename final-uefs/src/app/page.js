@@ -109,7 +109,7 @@ export default function Home() {
                                     notas[index] !== "" && (
                                         <p className="text-red-500 text-sm mt-1">
                                             Nota inválida. Use apenas números,
-                                            "." ou ",".
+                                            &quot;.&quot; ou &quot;,&quot;.
                                         </p>
                                     )}
                             </div>
