@@ -1,4 +1,4 @@
-# Calculadora de Aprovação FinalUefs
+# Calculadora de Aprovação Final UEFS
 
 Este é um projeto simples de calculadora de aprovação utilizando **Next.js** e **Tailwind CSS**. O aplicativo permite que o usuário insira suas notas, calcule a média das Medidas Parciais Consolidadas (MMPC) e determine se é necessário realizar a Avaliação Final (AF) para ser aprovado.
 
