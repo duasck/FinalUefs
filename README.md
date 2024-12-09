@@ -24,7 +24,7 @@ Este é um projeto simples de calculadora de aprovação utilizando **Next.js** 
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd calculadora-final-uefs
+   cd final-uefs
    ```
 
 3. Instale as dependências:
